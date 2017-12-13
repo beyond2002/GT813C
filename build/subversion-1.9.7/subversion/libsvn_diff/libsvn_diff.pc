@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libsvn_diff
+Description: Subversion Diff Library
+Version: 1.9.7
+Requires:  apr-1
+Requires.private:  libsvn_subr
+Libs: -L${libdir}  -lsvn_diff -L/home/beyond2002/buildroot-2017.02.8/output/host/usr/aarch64-buildroot-linux-gnu/sysroot/usr/lib -lz
+Cflags: -I${includedir}

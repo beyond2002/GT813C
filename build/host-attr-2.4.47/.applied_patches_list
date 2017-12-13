@@ -1,0 +1,3 @@
+/home/beyond2002/buildroot-2017.02.8/package/attr/0001-support-static-installation.patch
+/home/beyond2002/buildroot-2017.02.8/package/attr/0002-avoid-glibc-specific-decls-defines.patch
+/home/beyond2002/buildroot-2017.02.8/package/attr/0003-portability-fixes.patch

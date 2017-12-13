@@ -1,0 +1,3 @@
+/home/beyond2002/buildroot-2017.02.8/package/e2fsprogs/0001-sem-init-libs.patch
+/home/beyond2002/buildroot-2017.02.8/package/e2fsprogs/0002-MCONFIG.in-handle-CLOCK_GETTIME_LIB.patch
+/home/beyond2002/buildroot-2017.02.8/package/e2fsprogs/0002-include-sys-sysmacros.h-as-needed.patch

@@ -1,0 +1,1 @@
+cmd_shell/lib.a := rm -f shell/lib.a; /home/beyond2002/buildroot-2017.02.8/output/host/usr/bin/aarch64-linux-gnu-ar  rcs shell/lib.a shell/ash.o shell/ash_ptr_hack.o shell/math.o shell/random.o shell/shell_common.o

@@ -1,0 +1,8 @@
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0001-networking-libiproute-use-linux-if_packet.h-instead-.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0002-Makefile.flags-strip-non-l-arguments-returned-by-pkg.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0003-wget-fix-for-brain-damaged-HTTP-servers.-Closes-9471.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0004-unzip-properly-use-CDF-to-find-compressed-files.-Clo.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0005-typo-fix-in-config-help-text.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0006-unzip-remove-now-pointless-lseek-which-returns-curre.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0007-unzip-do-not-use-CDF.extra_len-read-local-file-heade.patch
+/home/beyond2002/buildroot-2017.02.8/package/busybox/0008-httpd-fix-handling-of-range-requests.patch

@@ -1,0 +1,2 @@
+#!/bin/sh
+PKG_CONFIG_LIBDIR=${PKG_CONFIG_LIBDIR:-/home/beyond2002/buildroot-2017.02.8/output/host/usr/aarch64-buildroot-linux-gnu/sysroot/usr/lib/pkgconfig:/home/beyond2002/buildroot-2017.02.8/output/host/usr/aarch64-buildroot-linux-gnu/sysroot/usr/share/pkgconfig} PKG_CONFIG_SYSROOT_DIR=${PKG_CONFIG_SYSROOT_DIR:-/home/beyond2002/buildroot-2017.02.8/output/host/usr/aarch64-buildroot-linux-gnu/sysroot} $(dirname $0)/pkgconf  $@

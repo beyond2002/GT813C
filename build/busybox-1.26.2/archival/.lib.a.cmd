@@ -1,0 +1,1 @@
+cmd_archival/lib.a := rm -f archival/lib.a; /home/beyond2002/buildroot-2017.02.8/output/host/usr/bin/aarch64-linux-gnu-ar  rcs archival/lib.a archival/ar.o archival/bbunzip.o archival/cpio.o archival/gzip.o archival/lzop.o archival/tar.o archival/unzip.o

@@ -1,0 +1,1 @@
+cmd_e2fsprogs/lib.a := rm -f e2fsprogs/lib.a; /home/beyond2002/buildroot-2017.02.8/output/host/usr/bin/aarch64-linux-gnu-ar  rcs e2fsprogs/lib.a e2fsprogs/chattr.o e2fsprogs/e2fs_lib.o e2fsprogs/fsck.o e2fsprogs/lsattr.o

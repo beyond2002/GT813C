@@ -1,0 +1,1 @@
+cmd_modutils/lib.a := rm -f modutils/lib.a; /home/beyond2002/buildroot-2017.02.8/output/host/usr/bin/aarch64-linux-gnu-ar  rcs modutils/lib.a modutils/insmod.o modutils/lsmod.o modutils/modprobe.o modutils/modutils.o modutils/rmmod.o
